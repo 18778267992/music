@@ -1,0 +1,19 @@
+﻿@using Xfrog.Net
+@model JsonObject
+@{
+    ViewBag.Title = "主页";
+}
+<div class="jumbotron"
+<h1>2017软件技术2班</h1>
+<p class="lead">案例教程</p>
+<p><a href="http://www.juhe.cn/docs/39"></a></p>
+<h2>Index1</h2>
+</div>
+<h3>@(Model["result"].Object["today"].Object["city"].Value)今日天气</h3>
+<ul>
+    <li>温度：@(Model["result"].Object["today"].Object["temperature"].Value)</li>
+    <li>风向：@(Model["result"].Object["today"].Object["wind"].Value)</li>
+    <li>日期：@(Model["result"].Object["today"].Object["week"].Value)</li>
+  
+</ul>
+

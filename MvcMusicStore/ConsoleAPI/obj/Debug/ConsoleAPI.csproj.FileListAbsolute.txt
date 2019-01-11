@@ -1,0 +1,7 @@
+D:\82韦兰左\MVC\MVC\MvcMusicStore\ConsoleAPI\bin\Debug\ConsoleAPI.exe.config
+D:\82韦兰左\MVC\MVC\MvcMusicStore\ConsoleAPI\bin\Debug\ConsoleAPI.exe
+D:\82韦兰左\MVC\MVC\MvcMusicStore\ConsoleAPI\bin\Debug\ConsoleAPI.pdb
+D:\82韦兰左\MVC\MVC\MvcMusicStore\ConsoleAPI\bin\Debug\JsonObject.dll
+D:\82韦兰左\MVC\MVC\MvcMusicStore\ConsoleAPI\obj\Debug\ConsoleAPI.exe
+D:\82韦兰左\MVC\MVC\MvcMusicStore\ConsoleAPI\obj\Debug\ConsoleAPI.pdb
+D:\82韦兰左\MVC\MVC\MvcMusicStore\ConsoleAPI\obj\Debug\ConsoleAPI.csprojResolveAssemblyReference.cache
